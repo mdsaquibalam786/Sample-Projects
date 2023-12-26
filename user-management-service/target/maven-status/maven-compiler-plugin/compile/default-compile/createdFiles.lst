@@ -1,0 +1,7 @@
+com\usermanagementservice\controller\UserController.class
+com\usermanagementservice\model\userDto\UserDetails.class
+com\usermanagementservice\config\SecurityConfig.class
+com\usermanagementservice\model\userEntity\UserEntity.class
+com\usermanagementservice\UserManagementServiceApplication.class
+com\usermanagementservice\repository\UserRepository.class
+com\usermanagementservice\service\UserService.class
